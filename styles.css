@@ -1,0 +1,49 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: #1F2937;
+}
+
+#logo {
+    color: #F9FAF8;
+    margin: 16px;
+}
+
+.footer {
+    color: #E5E7EB;
+    background-color: #1F2937;
+    text-align: center;
+}
+
+.content1 {
+    background-color: #1F2937;
+
+}
+
+.content2 {
+
+}
+
+.content3 {
+
+}
+
+.content4 {
+
+}
+
+ul {
+    gap: 32px;
+    color: #E5E7EB;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+button {
+    background-color: #3882F6;
+    color: white;
+}
